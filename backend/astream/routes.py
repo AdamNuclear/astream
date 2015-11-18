@@ -3,7 +3,14 @@ from flask import Blueprint, jsonify
 from . import music_dir
 
 
+api = Blueprint("api", __name__)
 music = Blueprint("music", __name__)
+
+
+@api.route("/")
+@api.route("/api")
+def home():
+    return jsonify({"message": "See documentation here: https://github.com/FrostyX/astream/blob/master/API.md"})
 
 
 @music.route("/api/music/tree")

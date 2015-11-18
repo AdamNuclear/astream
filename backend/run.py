@@ -1,6 +1,7 @@
 from astream import app
-from astream.routes import music
+from astream.routes import api, music
 
+app.register_blueprint(api)
 app.register_blueprint(music)
 
 if __name__ == '__main__':
