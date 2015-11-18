@@ -5,7 +5,7 @@
     - [flask](https://pypi.python.org/pypi/Flask)
 
 ## Running
-First mount your music into `data` directory and then run:
+First mount your music into `data` directory (or just copy some testing files here) and then run:
 
     python backend/run.py
 
