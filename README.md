@@ -10,3 +10,7 @@ First mount your music into `data` directory and then run:
     python backend/run.py
 
 Backend API is available via <http://0.0.0.0:5000/api>
+
+## API
+
+See the [API documentation](API.md)
