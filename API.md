@@ -4,8 +4,10 @@ API home url: `http://{hostname}/api/`
 
 ## Current
 
+[Music tree](#music-tree)
 
 
+### Music tree
 Retrieve `tree` of music directory represented as array obtaining relative paths to audio files. No order is guaranteed.
 ```
 GET /api/music/tree
