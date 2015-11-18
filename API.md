@@ -30,6 +30,7 @@ Content-Type: application/json
     "/baz/qux/x.mp3",
     "/baz/qux/y.mp3"
   ]
+}
 ```
 
 
