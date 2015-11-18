@@ -6,7 +6,7 @@ from . import music_dir
 music = Blueprint("music", __name__)
 
 
-@music.route("/music/tree")
+@music.route("/api/music/tree")
 def tree():
     r = []
     for path, dirs, files in os.walk(music_dir):
