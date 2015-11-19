@@ -14,3 +14,7 @@ Backend API is available via <http://0.0.0.0:5000/api>
 ## API
 
 See the [API documentation](API.md)
+
+## Running instances
+- Backend: <http://83.167.252.142:5000/>
+- Frontend: None
