@@ -2,7 +2,7 @@
 
 API home url: `http://{hostname}/api/`
 
-## Current
+## Current - v0.1
 
 [Music tree](#music-tree)
 
@@ -38,7 +38,7 @@ Content-Type: application/json
 
 ## Future
 
-# v0.1
+# v0.2
 Basic operations with songs
 ```
 /api/
@@ -48,7 +48,7 @@ Basic operations with songs
 /api/music/list                POST      (dir)
 ```
 
-# v0.2
+# v0.3
 Introducing database
 ```
 /api/music/{id]                GET
@@ -56,7 +56,7 @@ Introducing database
 ```
 
 
-# v0.3
+# v0.4
 New feature - playlists
 ```
 /api/playlist/                 GET
