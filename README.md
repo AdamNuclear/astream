@@ -5,11 +5,12 @@
     - [flask](https://pypi.python.org/pypi/Flask)
 
 ## Running
-First mount your music into `data` directory (or just copy some testing files here) and then run:
+At fist, copy the `backend/astream.example.conf` as `backend/astream.conf` and properly edit it. Please do **not** commit this file to the repository.
+Mount your music into `data` directory (or just copy some testing files here) and then run:
 
     python backend/run.py
 
-Backend API is available via <http://0.0.0.0:5000/api>
+Backend API is available via <http://0.0.0.0:5000/api> (if you have default settings)
 
 ## API
 
