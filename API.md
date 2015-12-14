@@ -68,3 +68,4 @@ New feature - playlists
 
 ## Links
 1. http://blog.miguelgrinberg.com/post/designing-a-restful-api-with-python-and-flask
+2. http://apihandyman.io/do-you-really-know-why-you-prefer-rest-over-rpc/
