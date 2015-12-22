@@ -1,0 +1,10 @@
+{
+  "name": "grunt-express-routes",
+  "description":"",
+  "repository":".",
+  "version": "0.0.1",
+
+  "files": [
+    "tasks/expressroutes.js"
+  ]
+}
