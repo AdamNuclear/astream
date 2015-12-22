@@ -23,7 +23,7 @@ Backend API is available via <http://0.0.0.0:5000/api> (if you have default sett
 
 ####frontend
 
-Folder `bin` is production build of client (standalone)
+Folder `bin` is production build of client (standalone).
 For first run rename file `bin/client/js/config.default.js` to `bin/client/js/config.js`
 and run:
 
@@ -39,7 +39,7 @@ See the [API documentation](API.md)
 
 ## Frontend development manual
 
-See the [Manual][frontend.md]
+See the [Manual](frontend.md)
 
 ## Running instances
 - Backend: <http://83.167.252.142:5000/>
