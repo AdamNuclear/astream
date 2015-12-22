@@ -39,7 +39,7 @@ See the [API documentation](API.md)
 
 ## Frontend development manual
 
-See the [Manual](frontend/manual.md)
+See the [Manual](frontend/README.md)
 
 ## Running instances
 - Backend: <http://83.167.252.142:5000/>
