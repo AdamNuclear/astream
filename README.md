@@ -5,7 +5,7 @@
     - [flask](https://pypi.python.org/pypi/Flask)
 
 - Frontend:
-    - [Angular](https://angularjs.org)
+    - [AngularJS](https://angularjs.org)
     - [NodeJS](https://nodejs.org)
     - [Bower](http://bower.io)
     - others listed in [Node package](frontend/package.json) and [Bower](frontend/bower.json)
@@ -39,7 +39,7 @@ See the [API documentation](API.md)
 
 ## Frontend development manual
 
-See the [Manual](frontend.md)
+See the [Manual](frontend/manual.md)
 
 ## Running instances
 - Backend: <http://83.167.252.142:5000/>
