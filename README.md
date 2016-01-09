@@ -24,7 +24,7 @@ Backend API is available via <http://0.0.0.0:5000/api> (if you have default sett
 ####frontend
 
 Folder `bin` is production build of client (standalone).
-For first run rename file `bin/client/js/config.default.js` to `bin/client/js/config.js`
+For first run rename file `bin/client/js/aStream-config.default.js` to `bin/client/js/aStream-config.js`
 and run:
 
     node bin/server/production.js
