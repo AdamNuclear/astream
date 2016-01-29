@@ -1,5 +1,9 @@
 # aStream
 
+## What the hell is going on
+
+[aStream Goals](wth.md)
+
 ## Dependencies
 - Backend:
     - [flask](https://pypi.python.org/pypi/Flask)
